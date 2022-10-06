@@ -1,0 +1,25 @@
+{
+  "name": "ca-tool-ogue",
+  "version": "1.0.0",
+  "description": "A simple and efficient tool tracker.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brian-nelson10/ca-tool-ogue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brian-nelson10/ca-tool-ogue/issues"
+  },
+  "homepage": "https://github.com/brian-nelson10/ca-tool-ogue#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.6.5"
+  }
+}
